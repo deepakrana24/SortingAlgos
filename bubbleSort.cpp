@@ -32,7 +32,7 @@ int main()
     cout << "after the bubble sort " << endl;
     for (int i; i < n; i++)
     {
-        cout << arr[i] << ",";
+        cout << arr[i] << ", ";
     }
     cout << endl;
 }
