@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+// o(N2) 0()
 int bubbleSort(int arr[], int n)
 {
 
